@@ -1,0 +1,69 @@
+
+
+
+
+body{
+    background-color: #343434
+}
+
+.container{
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    background-color: black;
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 150px;
+    text-align: center;
+}
+
+#temporizador{
+    font-size: 50px;
+    text-align: center;
+
+}
+
+.grupo-botoes{
+    padding: 20px;
+    
+}
+
+button{
+    width: 70px;
+    border: 0;
+    border-radius: 4px;
+    padding: 8px;
+}
+
+button:hover{
+    cursor: pointer;
+    
+}
+
+.btn-iniciar{
+    background-color: green;
+    font-weight: 700;
+
+}
+
+.btn-pausar{
+    background-color: orange;
+    font-weight: 700;
+}
+
+.btn-zerar{
+    background-color: brown;   
+    font-weight: 700;
+}
+
+.btn-iniciar:hover{
+    background-color: rgb(8, 53, 2);
+}
+
+.btn-pausar:hover{
+    background-color: rgb(155, 102, 4);
+}
+
+.btn-zerar:hover{
+    background-color: rgb(136, 3, 3);
+}
