@@ -3,14 +3,23 @@
 
 
 body{
-    background-color: #343434
+    background-color: black
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+    font-weight: 800;
+    font-size: 150px;
+    font-style: italic;
+    
 }
 
 .container{
     width: 300px;
     margin: auto;
     padding: 20px;
-    background-color: black;
+    background-color: rgb(41, 40, 40);
     color: #fff;
     border-radius: 5px;
     margin-top: 150px;
